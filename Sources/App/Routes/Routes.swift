@@ -8,6 +8,12 @@ extension Droplet {
             return json
         }
 
+        get("colours") { req in
+            var json = JSON()
+            try json.set("colour", "brown")
+            return json
+        }
+
         get("plaintext") { req in
             return "Hello, world!"
         }
