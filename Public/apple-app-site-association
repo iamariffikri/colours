@@ -1,0 +1,18 @@
+{
+    "activitycontinuation": {
+        "apps": [
+            "72HX5899PZ.my.test.colours"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "72HX5899PZ.my.test.colours",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
